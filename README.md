@@ -6,5 +6,5 @@
 **Products:** Synergy DBL<br />
 **Minimum Version:** 9.1<br />
 **Author:** Sunny Wong RC
-<hr>
+<hr><br />
 **Additional Information:** Std code or UI-Toolkit compatible. See MESSAGE_BOX.TXT for complete information.
